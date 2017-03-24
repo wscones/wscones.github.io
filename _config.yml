@@ -24,7 +24,7 @@ github_username:  wscones
 
 # Build settings
 markdown: kramdown
-theme: garth-jekyll-theme
+theme: garth
 gems:
   - jekyll-feed
 exclude:
