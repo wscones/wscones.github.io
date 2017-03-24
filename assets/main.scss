@@ -12,11 +12,12 @@ $base-line-height: 1.5;
 
 $spacing-unit:     50px;
 
-$text-color:       #111;
+$text-color:       #fff000;
 $background-color: #ff00ff;
-$brand-color:      #2a7ae2;
+$background-image: url("../images/seapunk.png");
+$brand-color:      #00ffff;
 
-$grey-color:       #828282;
+$grey-color:       #fffacd;//#828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
